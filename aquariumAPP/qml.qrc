@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page_addfish.qml</file>
+        <file>Page_addfish_conf.qml</file>
+        <file>Page_added.qml</file>
+        <file>Page_main.qml</file>
+        <file>Page_onoff.qml</file>
+        <file>Page_options.qml</file>
+        <file>Page_read.qml</file>
+        <file>Page_removefish.qml</file>
+        <file>Page_removed.qml</file>
+        <file>Page_ideal.qml</file>
+        <file>Page_graph.qml</file>
+        <file>images/blueWpp.jpg</file>
+        <file>images/fish.jpeg</file>
+        <file>images/options.png</file>
+        <file>images/deadfish.png</file>
+        <file>images/return.png</file>
+        <file>images/down_arrow.png</file>
+        <file>images/up_arrow.png</file>
+        <file>images/check.png</file>
+        <file>images/aquarium.png</file>
+        <file>images/playpause.png</file>
+        <file>images/read.png</file>
+        <file>images/alivefish.png</file>
+        <file>Page_change.qml</file>
+        <file>images/gear.png</file>
+        <file>Page_settings.qml</file>
+        <file>images/clock.png</file>
+    </qresource>
+</RCC>
